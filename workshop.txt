@@ -4,6 +4,5 @@ title=Carjacking
 description=[h2][41.72+] Allow players to pull others from vehicles if the door is unlocked.[/h2]
 description=
 description=[h2][b][url=https://i.imgur.com/fPXPD2t.mp4]Preview 1[/url]  [url=https://i.imgur.com/iW3A25Q.mp4]Preview 2[/url][/b][/h2]
-description=
 tags=Build 41;Multiplayer;Realistic;Silly/Fun
 visibility=public
