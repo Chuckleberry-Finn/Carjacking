@@ -13,13 +13,15 @@ function ISVehicleMenu.onEnter(playerObj, vehicle, seat)
                 if (not door or door:isOpen()) then
                     ---@type IsoPlayer|IsoGameCharacter
                     local victim = vehicle:getCharacter(seat)
-                    ISVehicleMenu.onExit(victim, seat)
-                    victim:faceThisObjectAlt(vehicle)
-                    victim:clearVariable("BumpFallType")
-                    victim:setBumpType("stagger")
-                    victim:setBumpDone(false)
-                    victim:setBumpFall(true)
-                    victim:setBumpFallType("pushedFront")
+                    if victim and SwipeStatePlayer.checkPVP(playerObj, victim) then
+                        ISVehicleMenu.onExit(victim, seat)
+                        victim:faceThisObjectAlt(vehicle)
+                        victim:clearVariable("BumpFallType")
+                        victim:setBumpType("stagger")
+                        victim:setBumpDone(false)
+                        victim:setBumpFall(true)
+                        victim:setBumpFallType("pushedFront")
+                    end
                 end
             end
 
