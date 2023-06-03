@@ -1,11 +1,12 @@
 version=1
 id=2832564154
 title=Carjacking
-description=[h2][41.72+] Allow players to pull others from vehicles if the door is unlocked.[/h2]
+description=[h3][41.72+] Allow players to pull others from vehicles if the door is unlocked.[/h3]
 description=
 description=[h2][b][url=https://i.imgur.com/fPXPD2t.mp4]Preview 1[/url]  [url=https://i.imgur.com/iW3A25Q.mp4]Preview 2[/url][/b][/h2]
 description=
-description=[url=https://ko-fi.com/chuckleberryfinn][img]https://i.imgur.com/GxZ38nz.png[/img] [b]Consider supporting Chuck![/b][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/Vanilla-Weapons-Expanded/main/Contents/mods/VanillaWeaponsExpanded/patreon/Patreon%20Logo.png[/img][/url]
+description=[url=https://ko-fi.com/chuckleberryfinn][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/kofi.png[/img][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/patreon.png[/img][/url]
 description=
+description=[h3]Copyright 2023 Chuckleberry Finn. This item is not authorized for posting on Steam, except under the Steam account named Chuckleberry Finn.[/h3]
 tags=Build 41;Multiplayer;Realistic;Silly/Fun
 visibility=public
